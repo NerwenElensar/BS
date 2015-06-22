@@ -1,3 +1,4 @@
+package SimRace;
 
 public class Car extends Thread{
 	private int _carName;
